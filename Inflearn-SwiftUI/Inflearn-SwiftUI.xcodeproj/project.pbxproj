@@ -8,19 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */; };
-		ABC71B942903AF45002EF41D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B932903AF45002EF41D /* ContentView.swift */; };
 		ABC71B962903AF47002EF41D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABC71B952903AF47002EF41D /* Assets.xcassets */; };
 		ABC71B992903AF47002EF41D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABC71B982903AF47002EF41D /* Preview Assets.xcassets */; };
 		ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B9F2903AF81002EF41D /* MyButton.swift */; };
+		ABC71BA22903B039002EF41D /* MyText.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BA12903B039002EF41D /* MyText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ABC71B8E2903AF45002EF41D /* Inflearn-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Inflearn-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inflearn_SwiftUIApp.swift; sourceTree = "<group>"; };
-		ABC71B932903AF45002EF41D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ABC71B952903AF47002EF41D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABC71B982903AF47002EF41D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABC71B9F2903AF81002EF41D /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
+		ABC71BA12903B039002EF41D /* MyText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,10 +54,10 @@
 			isa = PBXGroup;
 			children = (
 				ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */,
-				ABC71B932903AF45002EF41D /* ContentView.swift */,
 				ABC71B952903AF47002EF41D /* Assets.xcassets */,
 				ABC71B972903AF47002EF41D /* Preview Content */,
 				ABC71B9F2903AF81002EF41D /* MyButton.swift */,
+				ABC71BA12903B039002EF41D /* MyText.swift */,
 			);
 			path = "Inflearn-SwiftUI";
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABC71B942903AF45002EF41D /* ContentView.swift in Sources */,
+				ABC71BA22903B039002EF41D /* MyText.swift in Sources */,
 				ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */,
 				ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */,
 			);
