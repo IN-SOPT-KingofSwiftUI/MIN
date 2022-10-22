@@ -18,6 +18,7 @@
 		ABC71BAC2903B16F002EF41D /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BAB2903B16F002EF41D /* MyList.swift */; };
 		ABC71BAE2903B1E2002EF41D /* MySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BAD2903B1E2002EF41D /* MySection.swift */; };
 		ABC71BB02903B226002EF41D /* MySpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BAF2903B226002EF41D /* MySpacer.swift */; };
+		ABC71BB22903B24D002EF41D /* MyColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BB12903B24D002EF41D /* MyColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		ABC71BAB2903B16F002EF41D /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 		ABC71BAD2903B1E2002EF41D /* MySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySection.swift; sourceTree = "<group>"; };
 		ABC71BAF2903B226002EF41D /* MySpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySpacer.swift; sourceTree = "<group>"; };
+		ABC71BB12903B24D002EF41D /* MyColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				ABC71BAB2903B16F002EF41D /* MyList.swift */,
 				ABC71BAD2903B1E2002EF41D /* MySection.swift */,
 				ABC71BAF2903B226002EF41D /* MySpacer.swift */,
+				ABC71BB12903B24D002EF41D /* MyColor.swift */,
 			);
 			path = "Inflearn-SwiftUI";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				ABC71BB02903B226002EF41D /* MySpacer.swift in Sources */,
 				ABC71BA42903B074002EF41D /* MyImage.swift in Sources */,
 				ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */,
+				ABC71BB22903B24D002EF41D /* MyColor.swift in Sources */,
 				ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */,
 				ABC71BAE2903B1E2002EF41D /* MySection.swift in Sources */,
 				ABC71BAC2903B16F002EF41D /* MyList.swift in Sources */,
