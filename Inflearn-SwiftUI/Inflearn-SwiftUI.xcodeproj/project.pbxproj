@@ -13,6 +13,7 @@
 		ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B9F2903AF81002EF41D /* MyButton.swift */; };
 		ABC71BA22903B039002EF41D /* MyText.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BA12903B039002EF41D /* MyText.swift */; };
 		ABC71BA42903B074002EF41D /* MyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BA32903B074002EF41D /* MyImage.swift */; };
+		ABC71BA62903B0C1002EF41D /* MyStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71BA52903B0C1002EF41D /* MyStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		ABC71B9F2903AF81002EF41D /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 		ABC71BA12903B039002EF41D /* MyText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyText.swift; sourceTree = "<group>"; };
 		ABC71BA32903B074002EF41D /* MyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImage.swift; sourceTree = "<group>"; };
+		ABC71BA52903B0C1002EF41D /* MyStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				ABC71B9F2903AF81002EF41D /* MyButton.swift */,
 				ABC71BA12903B039002EF41D /* MyText.swift */,
 				ABC71BA32903B074002EF41D /* MyImage.swift */,
+				ABC71BA52903B0C1002EF41D /* MyStack.swift */,
 			);
 			path = "Inflearn-SwiftUI";
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				ABC71BA42903B074002EF41D /* MyImage.swift in Sources */,
 				ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */,
 				ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */,
+				ABC71BA62903B0C1002EF41D /* MyStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
