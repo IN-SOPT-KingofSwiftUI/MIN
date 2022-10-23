@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB6F472429053696003F8F85 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6F472329053696003F8F85 /* MyView.swift */; };
 		ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */; };
 		ABC71B962903AF47002EF41D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABC71B952903AF47002EF41D /* Assets.xcassets */; };
 		ABC71B992903AF47002EF41D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABC71B982903AF47002EF41D /* Preview Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB6F472329053696003F8F85 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		ABC71B8E2903AF45002EF41D /* Inflearn-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Inflearn-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inflearn_SwiftUIApp.swift; sourceTree = "<group>"; };
 		ABC71B952903AF47002EF41D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				ABC71BAD2903B1E2002EF41D /* MySection.swift */,
 				ABC71BAF2903B226002EF41D /* MySpacer.swift */,
 				ABC71BB12903B24D002EF41D /* MyColor.swift */,
+				AB6F472329053696003F8F85 /* MyView.swift */,
 			);
 			path = "Inflearn-SwiftUI";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				ABC71BA22903B039002EF41D /* MyText.swift in Sources */,
 				ABC71BA82903B0F9002EF41D /* MyScrollView.swift in Sources */,
+				AB6F472429053696003F8F85 /* MyView.swift in Sources */,
 				ABC71BB02903B226002EF41D /* MySpacer.swift in Sources */,
 				ABC71BA42903B074002EF41D /* MyImage.swift in Sources */,
 				ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */,
