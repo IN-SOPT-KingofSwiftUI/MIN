@@ -11,7 +11,7 @@ import SwiftUI
 struct Inflearn_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            MyColor()
+            MyState()
         }
     }
 }
