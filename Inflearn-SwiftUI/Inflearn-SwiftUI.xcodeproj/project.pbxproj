@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB5D9F7129067FA800718779 /* MyPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5D9F7029067FA800718779 /* MyPadding.swift */; };
+		AB5D9F73290680B200718779 /* MyFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5D9F72290680B200718779 /* MyFrame.swift */; };
 		AB6F472429053696003F8F85 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6F472329053696003F8F85 /* MyView.swift */; };
 		AB6F4726290537B3003F8F85 /* MyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6F4725290537B3003F8F85 /* MyState.swift */; };
 		ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC71B912903AF45002EF41D /* Inflearn_SwiftUIApp.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		AB5D9F7029067FA800718779 /* MyPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPadding.swift; sourceTree = "<group>"; };
+		AB5D9F72290680B200718779 /* MyFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFrame.swift; sourceTree = "<group>"; };
 		AB6F472329053696003F8F85 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		AB6F4725290537B3003F8F85 /* MyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyState.swift; sourceTree = "<group>"; };
 		ABC71B8E2903AF45002EF41D /* Inflearn-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Inflearn-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +90,7 @@
 				AB6F472329053696003F8F85 /* MyView.swift */,
 				AB6F4725290537B3003F8F85 /* MyState.swift */,
 				AB5D9F7029067FA800718779 /* MyPadding.swift */,
+				AB5D9F72290680B200718779 /* MyFrame.swift */,
 			);
 			path = "Inflearn-SwiftUI";
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				AB6F472429053696003F8F85 /* MyView.swift in Sources */,
 				ABC71BB02903B226002EF41D /* MySpacer.swift in Sources */,
 				ABC71BA42903B074002EF41D /* MyImage.swift in Sources */,
+				AB5D9F73290680B200718779 /* MyFrame.swift in Sources */,
 				ABC71B922903AF45002EF41D /* Inflearn_SwiftUIApp.swift in Sources */,
 				ABC71BB22903B24D002EF41D /* MyColor.swift in Sources */,
 				ABC71BA02903AF81002EF41D /* MyButton.swift in Sources */,
