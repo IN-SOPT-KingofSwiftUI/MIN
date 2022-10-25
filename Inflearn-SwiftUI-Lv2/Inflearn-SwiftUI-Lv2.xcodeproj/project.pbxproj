@@ -12,6 +12,7 @@
 		AB8CFF122907D6DE009C3479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8CFF112907D6DE009C3479 /* Assets.xcassets */; };
 		AB8CFF152907D6DE009C3479 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8CFF142907D6DE009C3479 /* Preview Assets.xcassets */; };
 		AB8CFF1C2907D740009C3479 /* MyDarkColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF1B2907D740009C3479 /* MyDarkColor.swift */; };
+		AB8CFF1E2907D8E1009C3479 /* MyDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF1D2907D8E1009C3479 /* MyDivider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		AB8CFF112907D6DE009C3479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB8CFF142907D6DE009C3479 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB8CFF1B2907D740009C3479 /* MyDarkColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDarkColor.swift; sourceTree = "<group>"; };
+		AB8CFF1D2907D8E1009C3479 /* MyDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDivider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				AB8CFF112907D6DE009C3479 /* Assets.xcassets */,
 				AB8CFF132907D6DE009C3479 /* Preview Content */,
 				AB8CFF1B2907D740009C3479 /* MyDarkColor.swift */,
+				AB8CFF1D2907D8E1009C3479 /* MyDivider.swift */,
 			);
 			path = "Inflearn-SwiftUI-Lv2";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				AB8CFF1C2907D740009C3479 /* MyDarkColor.swift in Sources */,
 				AB8CFF102907D6DC009C3479 /* ContentView.swift in Sources */,
 				AB8CFF0E2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift in Sources */,
+				AB8CFF1E2907D8E1009C3479 /* MyDivider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
