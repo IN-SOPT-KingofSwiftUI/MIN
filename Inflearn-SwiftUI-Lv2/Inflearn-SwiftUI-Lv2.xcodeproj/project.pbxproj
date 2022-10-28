@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB206DCC290C119400EA4A65 /* MyAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DCB290C119400EA4A65 /* MyAlert.swift */; };
+		AB206DCE290C149700EA4A65 /* MyTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DCD290C149700EA4A65 /* MyTabView.swift */; };
 		AB8CFF0E2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF0D2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift */; };
 		AB8CFF102907D6DC009C3479 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF0F2907D6DC009C3479 /* ContentView.swift */; };
 		AB8CFF122907D6DE009C3479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8CFF112907D6DE009C3479 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		AB206DCB290C119400EA4A65 /* MyAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAlert.swift; sourceTree = "<group>"; };
+		AB206DCD290C149700EA4A65 /* MyTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabView.swift; sourceTree = "<group>"; };
 		AB8CFF0A2907D6DC009C3479 /* Inflearn-SwiftUI-Lv2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Inflearn-SwiftUI-Lv2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8CFF0D2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inflearn_SwiftUI_Lv2App.swift; sourceTree = "<group>"; };
 		AB8CFF0F2907D6DC009C3479 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				AB8CFF1D2907D8E1009C3479 /* MyDivider.swift */,
 				AB8CFF1F2907DA8A009C3479 /* MyModal.swift */,
 				AB206DCB290C119400EA4A65 /* MyAlert.swift */,
+				AB206DCD290C149700EA4A65 /* MyTabView.swift */,
 			);
 			path = "Inflearn-SwiftUI-Lv2";
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				AB8CFF1E2907D8E1009C3479 /* MyDivider.swift in Sources */,
 				AB206DCC290C119400EA4A65 /* MyAlert.swift in Sources */,
 				AB8CFF202907DA8A009C3479 /* MyModal.swift in Sources */,
+				AB206DCE290C149700EA4A65 /* MyTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
