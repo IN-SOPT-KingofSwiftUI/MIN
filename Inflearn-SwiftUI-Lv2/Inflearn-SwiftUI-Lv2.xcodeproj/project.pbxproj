@@ -13,6 +13,7 @@
 		AB206DD2290C179700EA4A65 /* MyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DD1290C179700EA4A65 /* MyTextField.swift */; };
 		AB206DD4290C189800EA4A65 /* MySecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DD3290C189800EA4A65 /* MySecureField.swift */; };
 		AB206DD6290D4F5C00EA4A65 /* MyProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DD5290D4F5C00EA4A65 /* MyProgress.swift */; };
+		AB206DD8290D52FA00EA4A65 /* MyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB206DD7290D52FA00EA4A65 /* MyLabel.swift */; };
 		AB8CFF0E2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF0D2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift */; };
 		AB8CFF102907D6DC009C3479 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8CFF0F2907D6DC009C3479 /* ContentView.swift */; };
 		AB8CFF122907D6DE009C3479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB8CFF112907D6DE009C3479 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 		AB206DD1290C179700EA4A65 /* MyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextField.swift; sourceTree = "<group>"; };
 		AB206DD3290C189800EA4A65 /* MySecureField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySecureField.swift; sourceTree = "<group>"; };
 		AB206DD5290D4F5C00EA4A65 /* MyProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProgress.swift; sourceTree = "<group>"; };
+		AB206DD7290D52FA00EA4A65 /* MyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLabel.swift; sourceTree = "<group>"; };
 		AB8CFF0A2907D6DC009C3479 /* Inflearn-SwiftUI-Lv2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Inflearn-SwiftUI-Lv2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8CFF0D2907D6DC009C3479 /* Inflearn_SwiftUI_Lv2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inflearn_SwiftUI_Lv2App.swift; sourceTree = "<group>"; };
 		AB8CFF0F2907D6DC009C3479 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				AB206DD1290C179700EA4A65 /* MyTextField.swift */,
 				AB206DD3290C189800EA4A65 /* MySecureField.swift */,
 				AB206DD5290D4F5C00EA4A65 /* MyProgress.swift */,
+				AB206DD7290D52FA00EA4A65 /* MyLabel.swift */,
 			);
 			path = "Inflearn-SwiftUI-Lv2";
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				AB8CFF1C2907D740009C3479 /* MyDarkColor.swift in Sources */,
 				AB206DD6290D4F5C00EA4A65 /* MyProgress.swift in Sources */,
+				AB206DD8290D52FA00EA4A65 /* MyLabel.swift in Sources */,
 				AB206DD0290C164400EA4A65 /* MyToggle.swift in Sources */,
 				AB8CFF102907D6DC009C3479 /* ContentView.swift in Sources */,
 				AB206DD4290C189800EA4A65 /* MySecureField.swift in Sources */,
