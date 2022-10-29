@@ -11,7 +11,7 @@ import SwiftUI
 struct Inflearn_SwiftUI_Lv2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyAppear()
         }
     }
 }
